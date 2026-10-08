@@ -1,0 +1,17 @@
+{
+  "name": "cicd-pipeline-x",
+  "version": "1.0.0",
+  "description": "A sample Node.js application with GitHub Actions CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.3.1"
+  }
+}
